@@ -1,2 +1,0 @@
-Pour convertir un texte en majuscules (en convertissant les accents) et supprimer tous les caractères de ponctuation et autres, il est possible d’utiliser la fonction suivante
-
